@@ -1,8 +1,9 @@
 # Python_MachineLearning_Guide
 
 <p align="center">
-  <img width="250" height="350" src="https://user-images.githubusercontent.com/45617225/92135103-4ff79080-ee45-11ea-99af-e60505bcbfdd.png">
+  <img src="https://user-images.githubusercontent.com/45617225/92135508-d14f2300-ee45-11ea-86d8-1bec587dd17c.png">
 </p>
+
 
 ## 9. 추천시스템 
 |  | 소제목 | 바로가기 | 
